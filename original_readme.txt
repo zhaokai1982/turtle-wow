@@ -1,60 +1,58 @@
-Hello! This is a Turtle dump (hehe)
+你好这是海龟堆（呵呵）
 
-Included is a full DB snap shot, full source code (all branches), logins, etc.
-Theres some duplicate stuff.
-Also some screenshots of internal chat.
+包括完整的数据库快照、完整的源代码（所有分支）、登录等。
+有一些重复的东西。
+还有一些内部聊天的截图。
 
-Source code has been modified and obfuscated, backdoor are endless.
-No matter how much restructuing, logs parsing, it's too late. I'm woven in the fabric. 
-As well, I had full access to the forums for many months which allowed me to edit the main Turtle download link.
-Do with that as you will. 
+源代码已经被修改和混淆，后门是无穷无尽的。
+无论进行多少重组、日志解析，都为时已晚。我在织物中编织。 
+此外，我几个月来都可以完全访问论坛，这让我可以编辑Turtle的主要下载链接。
+随你怎么做。
 
-There is more I'm going to hold back. No dox material.
+我还有更多要隐瞒的。没有dox材料。
 
-If I missed anything, I'll make a post here:
+如果我错过了什么，我会在这里发帖：
 https://pastebin.com/xH3U01bS
 
-Anyways, I have some comments to make.
+不管怎样，我有一些意见要发表。
 
-Don't forget that security is part of development. As a consumer, you don't care what their code looks like until it matters. 
-Why do billion-dollar companies take years to redevelop an existing product (such as classic WoW)? For reasons like this. 
-They're liable for your security. Small "companies" like Turtle can't be held liable, so they do not care and only exist to 
-pump out content as fast as possible, which sounds awesome until something like this happens. A company that pockets all its 
-profit without investing in security deserves what it gets. Think about that when you go to run their new Unreal client directly
-on your PCs/Phones. 
+不要忘记，安全是发展的一部分。作为一名消费者，你不在乎他们的代码是什么样子，直到它变得重要。 
+为什么价值数十亿美元的公司需要数年时间来重新开发现有产品（如经典的《魔兽世界》）？出于这样的原因。 
+他们对你的安全负责。像Turtle这样的小“公司”不承担责任，所以他们不在乎，只存在于
+尽可能快地输出内容，这听起来很棒，直到发生这样的事情。一家将其全部收入囊中的公司
+不投资安全的利润是应得的。当你直接在你的PC/手机上运行他们的新虚幻客户端时，想想看。
 
-A short history lesson for the new Turtle fans: Nostalrius was one of the last true passion projects in the private server scene,
-ultimately ended by a C&D from Blizzard around 2015. This server was massive and played by everyone. They never took donations,
-never had any major drama, and had insane quality for the time. After their shutdown, they gave their core and database to Elysium.
-This was a massive deal at the time since everyone was dying to play their beloved Nostalrius again. Elysium was a small vanilla 
-server running for profit at the time and was run by Shenna (Torta). They went non-profit and agreed to host it. From there on, 
-it was daily drama and shady actions from Shenna (Torta) and Crogge (Bowser) trying to cash in. A couple of years later, Shenna (Torta) 
-and Crogge (Bowser) were caught spawning gold and selling it. The entire core and database were taken and spun off to a new project 
-called Light's Hope, which removed Shenna and Crogge. From then on, it was considered one of the best experiences and ran full 
-progression with minimal drama until Blizzard announced Classic, at which point they shut down.
+给新海龟迷上一堂简短的历史课：Nostalrius是私人服务器领域最后一个真正充满激情的项目之一，最终在2015年左右被暴雪的C&D终止。这个服务器很大，每个人都玩。
+他们从未接受过捐款，从未有过任何重大的戏剧性事件，在当时有着疯狂的品质。关闭后，他们将核心和数据库交给了Elysium。
+这在当时是一件大事，因为每个人都渴望再次扮演他们心爱的Nostalrius。Elysium是一种小香草
+该服务器当时以盈利为目的，由Shenna（Torta）运营。他们变成了非营利组织，并同意主办这次活动。从那时起，
+这是Shenna（Torta）和Crogge（Bowser）试图从中获利的日常戏剧和阴暗行为。几年后，Shenna（托尔塔）
+Crogge（Bowser）被抓到产卵并出售黄金。整个核心和数据库都被剥离出来，用于一个新项目
+名为《光明的希望》，该片将申娜和克鲁格移除。从那时起，它被认为是最好的体验之一，并满载而归
+在暴雪宣布Classic之前，他们一直在以最小的戏剧性进行进展，但最终他们关闭了Classic。
 
-Fast forward a few years, another project called Hyjal spawns due to the poor experience Blizzard delivered with Classic. It was 
-run by the same admin as Light's Hope. After some time, this admin got burnt out and decided to pass the reins to his new lead developer, 
-Nolin. This project, which was a 1x non-profit plain vanilla server, eventually had its database sold off to Turtle WoW. Although, 
-Hyjal was a dying server at that point. Turtle WoW at that time was an extremely small server averaging fewer than 50 players. 
-They inherited the Hyjal developers and likely most staff. From there, they went to a full for-profit server and mainly backported old 
-assets from newer expansions. This wasn't the first server to "merge" with them either. Many others have. Something similar happened with
-"Vanilla+", one of the original vanilla plus servers, leading to confusion and anger. Cash shops suddenly appeared, and an anonymous admin emerged. 
-Turtle really acted like a private server mob boss, consuming as many projects as they could buy out or obtain to convert to for-profit. 
-Not exactly passionate and for the love of the game.
+几年后，另一个名为海加尔的项目诞生了，因为暴雪在经典游戏中的体验不佳。它是
+与Light’s Hope由同一管理员管理。过了一段时间，这位管理员筋疲力尽，决定把权力交给他的新首席开发人员，
+诺林。这个项目是一个1x非营利性普通服务器，最终将其数据库出售给了Turtle WoW。虽然，
+海加尔当时是一个垂死的服务器。Turtle WoW在当时是一个非常小的服务器，平均不到50名玩家。 
+他们继承了海加尔的开发人员，可能还有大部分员工。从那里开始，他们转向了一个完全以营利为目的的服务器，主要是后端口的旧服务器
+来自新扩张的资产。这也不是第一个与它们“合并”的服务器。许多其他人都有。类似的事情发生在
+“Vanilla+”，最初的香草+服务器之一，导致混乱和愤怒。现金商店突然出现，一位匿名管理员出现了。 
+Turtle的行为真的像一个私人服务器暴徒老板，他们尽可能多地购买或获得项目，以转化为营利性项目。 
+不完全是激情和对游戏的热爱。
 
-Ignoring all the accusations of DDoSing, anti-competition, and being on /r/wowserver staff, etc, they have a very deep-rooted history of 
-shadiness going back before they even started. I'm sure there's a lot of passion behind the staff, but the owners are certainly not 
-doing this for the love of the game. Don't forget that their entire product is developed off the back of an open-source product, none 
-of whose code has been put back as open-source (until now).
+无视DDoSing、反竞争和身为/r/wowserver员工等所有指控，他们有着根深蒂固的历史
+在他们开始之前，阴影就已经回来了。我确信员工们有很多热情，但老板们肯定没有
+这样做是为了热爱游戏。别忘了，他们的整个产品都是在开源产品的基础上开发的，没有
+其代码已恢复为开源（直到现在）。
 
-I don't expect anyone to really care. The majority of people will log in and play the game no matter who runs it or what the code looks 
-like. However, they're very anti-competition. For a project that's constantly described as a passion project, they certainly don't like 
-other competition. It goes to show, you really can form your own narrative with enough ads and shill accounts.
+我不指望有人真的在乎。无论谁运行游戏或代码是什么，大多数人都会登录并玩游戏
+就像。然而，他们非常反竞争。对于一个经常被描述为激情项目的项目，他们当然不喜欢
+其他竞争。这表明，你真的可以用足够的广告和先令账户来形成自己的叙事。
 
-Blame me all you want, but if it wasn't me, it would be the next person. Aim your anger at the people who allowed it to happen. 
-You trusted them with your security, and they didn't care.
+你想怪我就怪我，但如果不是我，那就是下一个人。把你的愤怒指向那些允许它发生的人。 
+你信任他们的安全，他们不在乎。
 
-Also I noticed a very very strong connection to Everlook. To the point of Everlook staff joining their vacation plans despite not 
-being an active employee there. I didn't see this connection with any other server. They share a lot of their code bases too. 
-Maybe a next target?
+我也注意到了与Everlook的紧密联系。Everlook员工加入了他们的度假计划，尽管没有
+成为那里的活跃员工。我没有看到与任何其他服务器的连接。他们也共享了很多代码库。 
+也许是下一个目标？
