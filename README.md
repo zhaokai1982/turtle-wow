@@ -1,29 +1,31 @@
-# Turtle-WoW Emulation Server Source Code
+# Turtle WoW仿真服务器源代码
 
-This repository was initiated after the Turtle-WoW server was presumably compromised through a reverse payload, exploit in their CMS or potentially by a malicious team member.
+该存储库是在Turtle WoW服务器可能通过反向有效载荷、CMS中的漏洞利用或潜在的恶意团队成员受到攻击后启动的。
 
-## Important Notice
+## 重要声明
 
-**Caution:** Users should be aware of the possibility of backdoors, exploits, or other malicious elements within the source files due to the history of the owner of Turtle-WoW, known as Shenna/Torta. Exercise caution when using or reviewing the code.
+**警告：**由于Turtle WoW所有者Shenna/Torta的历史，用户应该意识到源文件中可能存在后门、漏洞利用或其他恶意元素。使用或查看代码时请谨慎。
 
-## Disclaimer
+## 免责声明
 
-- **No Liability:** I am not liable for any issues, damages, or legal consequences that may arise from the use of this source code.
-- **No Affiliation:** I have no affiliation with Turtle-WoW or any related parties. This repository is for informational purposes only.
-- **Rights:** The rights to almost all material included in this repository belong to Blizzard Entertainment or Activision, as applicable.
+-**无责任：**我对使用此源代码可能产生的任何问题、损害或法律后果不承担责任。
 
-Use this source code at your own risk. Ensure you thoroughly review and understand the code before making any use of it.
+-**无隶属关系：**我与Turtle WoW或任何相关方没有隶属关系。此存储库仅供参考。
 
-## Authentication Databases
+-**权利：**此存储库中包含的几乎所有材料的权利都属于暴雪娱乐或动视，视情况而定。
 
-I have not included the authentication databases in this repository for privacy and moral reasons. It is advised to never use the same password across different platforms, especially not on shady emulation projects.
+使用此源代码的风险由您自行承担。在使用代码之前，确保您彻底审查和理解代码。
 
-Passwords used up to Cataclysm can be easily cracked due to limitations set by the client. So it’s not a matter of if, but when the passwords will be decrypted.
+## 身份验证数据库
 
-## Security Advisory
+出于隐私和道德原因，我没有将身份验证数据库包含在此存储库中。建议不要在不同的平台上使用相同的密码，尤其是在阴暗的仿真项目上。
 
-Whenever you connect to a Vanilla, TBC, WotLK (and possibly higher expansion) server, you are susceptible to a payload that can run malicious code on your system. Fortunately, this leak has prompted the community to create a fix to counter such payload injections for the WotLK (3.3.5a) client of the game, by disabling Warden (anti-cheat system). You can view this fix here: [RCEPatcher](https://github.com/stoneharry/RCEPatcher). Be aware that this fix prevents you playing on Warden enabled servers.
+由于客户端设置的限制，Cataclysm之前使用的密码很容易被破解。因此，这不是是否解密的问题，而是密码何时解密的问题。
 
-On top of this, if you logged in and received a patch in the last couple of days, you might be infected with a virus. The Vanilla and Burning Crusade clients are especially insecure, because the RSA keys got cracked, the Turtle-WoW uses this patching mechanism in the client. There is information going around in the community that the hacker(s) tried to exploit this, but it's unclear.
+## 忠告
 
-For more information, you can refer to the [original_readme.txt](original_readme.txt) included in this leak.
+每当您连接到Vanilla、TBC、WotLK（可能还有更高的扩展）服务器时，您都容易受到可能在系统上运行恶意代码的负载的影响。幸运的是，这次泄漏促使社区创建了一个修复程序，通过禁用Warden（反作弊系统）来对抗游戏WotLK（3.3.5a）客户端的此类有效载荷注入。您可以在此处查看此修复程序：[RCEPatcher](https://github.com/stoneharry/RCEPatcher).请注意，此修复程序阻止您在启用了Warden的服务器上玩游戏。
+
+除此之外，如果你在过去几天登录并收到补丁，你可能会感染病毒。Vanilla和Burning Crusade客户端特别不安全，因为RSA密钥被破解，Turtle WoW在客户端使用了这种补丁机制。社区中流传着黑客试图利用此漏洞的信息，但尚不清楚。
+
+有关更多信息，您可以参考此泄漏中包含的[original_readme.txt]（original_readme.txt）。
